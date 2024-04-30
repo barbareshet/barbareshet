@@ -1,5 +1,7 @@
 ### Hi there 👋
 <a href="https://app.daily.dev/barbareshet"><img src="https://api.daily.dev/devcards/6df15f0df2d346a9a6a9f70886ae2e55.png?r=1ri" width="400" alt="ido barnea's Dev Card"/></a>
+
+<a href="https://app.daily.dev/barbareshet"><img src="https://api.daily.dev/devcards/v2/OOu3j4UV9.png?r=ucg" width="356" alt="ido barnea's Dev Card"/></a>
 <!--
 **barbareshet/barbareshet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
